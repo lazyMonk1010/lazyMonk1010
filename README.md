@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: She/Her<br>🔭 I’m currently building EcoGuard : A Unified Approach to Marine Protection.<br>🌱 I’m currently exploring Machine Learning.<br>👯 I’m looking to collaborate on Freelance Projects.<br>💬 Ask me about  MERN<br>📫 How to reach me: Twitter - @ginni_jain16 <br>⚡ Fun fact: I don't like tea
+😄 Pronouns: She/Her<br>🔭 I’m currently building EcoGuard : A Unified Approach to Marine Protection.<br>🌱 I’m currently exploring Machine Learning.<br>👯 I’m looking to collaborate on Freelance Projects.<br>💬 Ask me about  MERN<br>⚡ Fun fact: I don't like tea
 
 
 ## 🌐 Socials:
