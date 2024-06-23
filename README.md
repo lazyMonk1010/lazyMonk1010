@@ -4,17 +4,17 @@
 
 ###
 
-<h2 align="center">Hey 👋 I am Ginni Jain. Welcome to my GitHub 😁</h2>
+<h1 align="center">Hey 👋 I am Ginni Jain. Welcome to my GitHub 😁</h1>
 
 ###
 
 <br clear="both">
 
-<p align="center">I'm a passionate full stack developer of the codeverse , on a mission to unlock the mysteries of software engineering with a side of humor</p>
+<h3 align="center">I'm a passionate full stack developer of the codeverse , on a mission to unlock the mysteries of software engineering with a side of humor</h3>
 
 ###
 
-<h2 align="left"># About Me</h2>
+<h1 align="left"># About Me</h1>
 
 ###
 
@@ -24,16 +24,16 @@
 
 <ul>
   <li>
-    <p align="left">🌱 Passionate B.Tech student and NextJs Intern at Employes Forum, <br> currently helping build a platform for easy job hunts. </p>
+    <h3 align="left">🌱 Passionate B.Tech student and NextJs Intern at Employes Forum, <br> currently helping build a platform for easy job hunts. </h3>
   </li>
   <li>
-    <p align="left">🔭 I have a keen interest in Machine Learning </p>
+    <h3 align="left">🔭 I have a keen interest in Machine Learning </h3>
   </li>
   <li>
-    <p align="left">💬 Ask me about MERN</p>
+    <h3 align="left">💬 Ask me about MERN</h3>
   </li>
   <li>
-    <p align="left">⚡ Fun Fact: I'm lazy</p>
+    <h3 align="left">⚡ Fun Fact: I'm lazy</h3>
   </li>
 </ul>
 
@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<h2 align="left"># Socials</h2>
+<h1 align="left"># Socials</h1>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h2 align="left"># Tech Stack</h2>
+<h1 align="left"># Tech Stack</h1>
 
 ###
 
